@@ -2,4 +2,4 @@ server:
   listenAddr: "0.0.0.0:65531"
   dstAddr: "127.0.0.1:65532"
   clientTimeout: 30
-  writeTimeout: 2000
+  writeTimeout: 1
